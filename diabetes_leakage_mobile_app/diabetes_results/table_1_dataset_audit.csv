@@ -1,0 +1,2 @@
+Rows,Positive rows,Negative rows,Predictors,Distinct exact profiles,Repeated rows beyond first,Repeated profiles,Largest profile size,Conflicting-label profiles,Source prevalence,CSV SHA-256
+520,320,200,16,251,269,107,16,0,0.6153846153846154,7889d9d0beb7dd1ccc58da99f72763f16afb259b5dbbaa086f8195366ff66137

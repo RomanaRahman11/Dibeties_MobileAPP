@@ -1,0 +1,3 @@
+scheme,Folds,Folds_with_overlap,Exposed_test_rows,Exposed_test_fraction
+grouped,100,0,0,0.0
+naive,100,100,3700,0.7115384615384616
